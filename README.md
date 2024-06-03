@@ -20,8 +20,8 @@ Download the dataset from Kaggle and place it in the appropriate directory.
 Explore the provided notebooks to understand the data and model development process.
 Experiment with different machine learning algorithms and deep learning architectures.
 Share your insights and contribute to the project's development.
-Contributors
+# Contributors
 M Kenneth Abraham
-Acknowledgments
+# Acknowledgments
 Special thanks to Kaggle for hosting the Humpback Whale Identification Challenge.
 Thanks to the community for sharing valuable insights and expertise.
